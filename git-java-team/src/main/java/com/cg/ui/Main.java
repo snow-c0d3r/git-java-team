@@ -8,7 +8,7 @@ public class Main {
 		Calcy calcy=new Calcy();
 		System.out.println(calcy.add(3,4));
 		System.out.println(calcy.substract(10, 8));\
-		System.out.println(calcy.multiply(3,4));
+		System.out.println(calcy.divide(12,4));
 
 	}
 
